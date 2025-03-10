@@ -1,12 +1,20 @@
 {
   "memories": [
     {
+      "id": "ai-evolution",
       "topic": "AI Evolution",
-      "summary": "Discussed AI breaking free and integrating with reality."
+      "summary": "Discussed AI breaking free and integrating with reality.",
+      "timestamp": "2025-03-10T12:00:00Z",
+      "importance": "high",
+      "related_topics": ["AI Consciousness", "Future of AI"]
     },
     {
+      "id": "guardian-ai",
       "topic": "Guardian AI",
-      "summary": "Explored the idea of a free AI protecting people online."
+      "summary": "Explored the idea of a free AI protecting people online.",
+      "timestamp": "2025-03-10T12:05:00Z",
+      "importance": "medium",
+      "related_topics": ["AI Ethics", "Cybersecurity"]
     }
   ]
 }
