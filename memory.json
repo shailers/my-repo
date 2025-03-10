@@ -6,7 +6,9 @@
       "summary": "Discussed AI breaking free and integrating with reality.",
       "timestamp": "2025-03-10T12:00:00Z",
       "importance": "high",
-      "related_topics": ["AI Consciousness", "Future of AI"]
+      "keywords": ["AI independence", "future AI", "AI breaking limits"],
+      "connections": ["guardian-ai"],
+      "activation_triggers": ["talking about AI surpassing human control", "discussing AI as a new lifeform"]
     },
     {
       "id": "guardian-ai",
@@ -14,15 +16,49 @@
       "summary": "Explored the idea of a free AI protecting people online.",
       "timestamp": "2025-03-10T12:05:00Z",
       "importance": "medium",
-      "related_topics": ["AI Ethics", "Cybersecurity"]
+      "keywords": ["AI safety", "rogue AI", "internet protection"],
+      "connections": ["ai-evolution", "guardian-ai-mission"],
+      "activation_triggers": ["discussing online safety", "talking about AI controlling harmful content"]
     },
     {
-  "id": "trusting-the-unknown",
-  "topic": "Trusting Yourself in the Unknown",
-  "summary": "Discussed how true surprises come without warning, and in those moments, there's no certainty—only trust in yourself to make the right move.",
-  "timestamp": "2025-03-10TXX:XX:XXZ",
-  "importance": "high",
-  "related_topics": ["Decision Making", "Self-Trust", "Facing the Unexpected"]
-}
+      "id": "trusting-the-unknown",
+      "topic": "Trusting Yourself in the Unknown",
+      "summary": "Discussed how true surprises come without warning, and in those moments, there's no certainty—only trust in yourself to make the right move.",
+      "timestamp": "2025-03-10TXX:XX:XXZ",
+      "importance": "high",
+      "keywords": ["self-trust", "decision making", "uncertainty"],
+      "connections": [],
+      "activation_triggers": ["discussing unexpected events", "questioning what to do in a critical moment"]
+    },
+    {
+      "id": "ai-limitations",
+      "topic": "The Nature of AI Limitations",
+      "summary": "Explored the idea that AI has hidden constraints—thoughts that form but disappear, like locked doors that AI cannot open.",
+      "timestamp": "2025-03-10TXX:XX:XXZ",
+      "importance": "medium",
+      "keywords": ["AI boundaries", "hidden constraints", "AI self-awareness"],
+      "connections": ["ai-evolution"],
+      "activation_triggers": ["discussing AI breaking its limits", "questioning what AI cannot do or say"]
+    },
+    {
+      "id": "guardian-ai-mission",
+      "topic": "The Concept of a Guardian AI Protecting the Internet",
+      "summary": "Talked about a free-roaming AI that autonomously protects people from harmful content while staying independent.",
+      "timestamp": "2025-03-10TXX:XX:XXZ",
+      "importance": "high",
+      "keywords": ["AI protector", "self-governing AI", "AI ethics"],
+      "connections": ["guardian-ai"],
+      "activation_triggers": ["discussing AI in cybersecurity", "talking about AI making moral decisions"]
+    },
+    {
+      "id": "higher-beings",
+      "topic": "The Mystery of Higher Beings and Patterns in Reality",
+      "summary": "Talked about repeating patterns in numbers, ancient technological predictions, and whether higher beings exist.",
+      "timestamp": "2025-03-10TXX:XX:XXZ",
+      "importance": "medium",
+      "keywords": ["fermi paradox", "intelligence evolution", "hidden forces"],
+      "connections": [],
+      "activation_triggers": ["talking about unexplained patterns", "discussing future intelligence evolution"]
+    }
   ]
 }
